@@ -15,3 +15,11 @@ img {
     width: 425px;
     margin: 100px;
 }
+.cabecalho{
+    background-color: rgb(122, 16, 16);
+    display: flex;
+}
+.logoimg{
+    width: 120xp;
+    margin-left: 750px;
+}
