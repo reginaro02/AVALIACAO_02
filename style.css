@@ -20,6 +20,20 @@ img {
     display: flex;
 }
 .logoimg{
-    width: 120xp;
-    margin-left: 750px;
+    width: 250px;
+    margin: 15px;
+    margin-right: 100px;
+}
+.listacabecalho{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.itemcabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 30px;
+    padding-left: 35px;
 }
