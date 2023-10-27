@@ -10,10 +10,12 @@ p {
     font: 50px;
     color: rgb(129, 48, 48);
     text-align: center;
+    border: 3px dotted rgb(129, 24, 24);
 }
 img {
     width: 425px;
-    margin: 100px;
+    margin: 95px;
+    border: 5px solid rgb(122, 33, 33);
 }
 .cabecalho{
     background-color: rgb(122, 16, 16);
