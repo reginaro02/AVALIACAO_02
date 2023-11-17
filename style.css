@@ -34,6 +34,7 @@ img {
 }
 .itemcabecalho{
     text-align: center;
+    margin-left: 100px;
     list-style: none;
     text-transform: uppercase;
     color: black;
